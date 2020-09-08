@@ -9,7 +9,7 @@
 
 [中文文档](README_zh-Hans.md)
 ## hexouse
-- 连接  http://www/\.bilibili.com
+- 连接  http://www.bilibili.com
 
 ## Summary
 

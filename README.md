@@ -8,8 +8,8 @@
 ❤️ SPA, flat and clean theme for [Hexo].
 
 [中文文档](README_zh-Hans.md)
-## hexouse
-- 连接  http://www.bilibili.com
+## hexo 使用
+- 链接  http://www.bilibili.com
 
 ## Summary
 

@@ -75,7 +75,8 @@ theme: inside
 - Where to find front-end source code?
 
   It's placed at https://bitbucket.org/ikeq/hexo-theme-inside-ng for historical reason.
-
+## hexouse
+- 连接  http://www/\.bilibili.com
 ## License
 
 Licensed under [MIT](LICENSE).

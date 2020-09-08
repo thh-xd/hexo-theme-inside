@@ -8,6 +8,8 @@
 ❤️ SPA, flat and clean theme for [Hexo].
 
 [中文文档](README_zh-Hans.md)
+## hexouse
+- 连接  http://www/\.bilibili.com
 
 ## Summary
 
@@ -75,8 +77,7 @@ theme: inside
 - Where to find front-end source code?
 
   It's placed at https://bitbucket.org/ikeq/hexo-theme-inside-ng for historical reason.
-## hexouse
-- 连接  http://www/\.bilibili.com
+
 ## License
 
 Licensed under [MIT](LICENSE).
